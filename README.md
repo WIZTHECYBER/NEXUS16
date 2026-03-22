@@ -11,7 +11,7 @@ A lot of the DIY projects are mostly indivisual hardware sottered together to fo
 **We made sure to input the details of Nexus16 in such a suffisticated manner that it is easy for everyone to learnt ,self develop and improvise it.**
 
 ### **Casing:**
-We did not settle for an exquisite and overly-engineered design but rather chose to make the casing simple enough to 3-D print for even Low-Tier 3-D Printers. Well,after spending a few grueling hours understanding and learning Auto-CAD, we fabricated a design that looked simple and sturdy enough for our demands. The microcontroller and OLED sit safely on a raised platform, while the 16 mechanical switches drop perfectly into a 3.5mm hollow "tubs".This provides the user with an angle on the hands thats is not concern raising in the long run.
+>We did not settle for an exquisite and overly-engineered design but rather chose to make the casing simple enough to 3-D print for even Low-Tier 3-D Printers. Well,after spending a few grueling hours understanding and learning Auto-CAD, we fabricated a design that looked simple and sturdy enough for our demands. The microcontroller and OLED sit safely on a raised platform, while the 16 mechanical switches drop perfectly into a 3.5mm hollow "tubs".This provides the user with an angle on the hands thats is not concern raising in the long run.
 **Digital Dashboard:** 
 >To provide with an improved experience ,we also included an OLED Display for visual output. The seamlessly integrated 0.91" OLED screen acts as the system status ,visible at a single glance.
 
