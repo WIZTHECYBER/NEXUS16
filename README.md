@@ -1,5 +1,6 @@
 ### **Nexus16: The Art of Control.**
-<img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/319b17a3-7f28-4c76-9065-59e6aaf92d9a" />
+<img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/319b17a3-7f28-4c76-9065-59e6aaf92d9a" /> 
+
 A 17 year old and a 16 year old ,ordinary people in this world just trying to learn the ways of the world and finding our interests.Well we found our way through Hack Club.
 They became the platform for us to start our skill development from the start and provided us with a challenging yet sufficient project to physically work on .
 A lot of the DIY projects are mostly indivisual hardware sottered together to form a working but fragile piece of machinery ,but to us that was not gonna cut it.So we decided to use professional approaches and slowly but surely we were making progress and finally now our hardwork has paid us off.
