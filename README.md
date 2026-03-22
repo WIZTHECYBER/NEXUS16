@@ -1,26 +1,23 @@
 ### **Nexus16: The Art of Control.**
 <img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/319b17a3-7f28-4c76-9065-59e6aaf92d9a" />
+A 17 year old and a 16 year old ,ordinary people in this world just trying to learn the ways of the world and finding our interests.Well we found our way through Hack Club.
+They became the platform for us to start our skill development from the start and provided us with a challenging yet sufficient project to physically work on .
+A lot of the DIY projects are mostly indivisual hardware sottered together to form a working but fragile piece of machinery ,but to us that was not gonna cut it.So we decided to use professional approaches and slowly but surely we were making progress and finally now our hardwork has paid us off.
 
-Most DIY macropads are just bare circuit boards bolted to flat plastic. We demanded something better.
+### **Meet the Nexus16:**
+Designed from the ground up to give you pure, uninterrupted control over your work, built to make you a professional and to provide you with a satisfactory experience.
+### **The Engineering behind the P.C.B:**
+**We made sure to input the details of Nexus16 in such a suffisticated manner that it is easy for everyone to learnt ,self develop and improvise it.**
 
-We are a duo—a 16-year-old maker obsessed with hardware design, and a senior colleague who knows how to bring code and production to life. Together, we didn't just want to wire up some switches; we wanted to engineer a boutique, premium peripheral from scratch.
+### **Casing:**
+We did not settle for an exquisite and overly-engineered design but rather chose to make the casing simple enough to 3-D print for even Low-Tier 3-D Printers. Well,after spending a few grueling hours understanding and learning Auto-CAD, we fabricated a design that looked simple and sturdy enough for our demands. The microcontroller and OLED sit safely on a raised platform, while the 16 mechanical switches drop perfectly into a 3.5mm hollow "tubs".This provides the user with an angle on the hands thats is not concern raising in the long run.
+**Digital Dashboard:** To provide with an improved experience ,we also included an OLED Display for visual output. The seamlessly integrated 0.91" OLED screen acts as the system status ,visible at a single glance.
 
-Meet the Nexus16. Designed from the ground up to give you pure, uninterrupted control over your workflow, it’s built to feel less like a weekend project and more like a high-end piece of studio gear.
-
-### **🔥 The Engineering Behind the Board**
-**We sweat the details so you don't have to. Here is what makes the Nexus16 stand out:**
-
-**The Dual-Deck Architecture:** We refused to settle for a flat, uninspired case. After days of grinding in CAD, we perfected a multi-tier chassis. The microcontroller and OLED sit safely on a raised bezel, while the 16 mechanical switches drop perfectly into a custom 3.5mm recessed "tub." The result? A stunning visual hierarchy and an incredibly comfortable typing angle.
-
-**The Heads-Up Dashboard:** Total control means never guessing what layer you are on. The seamlessly integrated 0.91" OLED screen acts as your command center, keeping your active layers and system status visible at a single glance.
-
-**Pure, Tactile Focus:** No gimmicks, no distractions. Just 16 highly responsive mechanical switches dedicated entirely to your most critical macros, shortcuts, and tools.
-
-**Zero-Compromise Enclosure:** Every millimeter, fillet, and bridge in the 3D-printed case was meticulously calculated to ensure the top lid and bottom chassis snap together flawlessly, hiding all the internal circuitry.
+**Pure, Tactile Experience:** NO Fancy or Magnetic switches were decided to be used to provide the builders of this project with simple and cost effictive yet sustainable components. Just 16 highly responsive mechanical switches( MX Cherry )were perfect for our demands.
 
 <img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/f027489b-fbe2-4f09-9233-b0f07bf553a4" />
 
-### **🛠️ The Bill of Materials (BOM)**
+### **Bill of Material(BOM):**
 **To manufacture your own Nexus16, you will need:**
 
 1x Seeed Studio XIAO RP2040
@@ -33,6 +30,8 @@ Meet the Nexus16. Designed from the ground up to give you pure, uninterrupted co
 
 1x Custom Nexus16 PCB
 
+16x Mini-E-LEDS
+
 1x 3D Printed Top Case & Bottom Case (Files located in the Production folder)
 
 <img width="1062" height="716" alt="image" src="https://github.com/user-attachments/assets/40f207c0-fb12-43b8-91e3-b838d431b47f" />
@@ -41,13 +40,13 @@ Meet the Nexus16. Designed from the ground up to give you pure, uninterrupted co
 <img width="725" height="772" alt="image" src="https://github.com/user-attachments/assets/7e3f31f8-0f39-4b92-8147-af84ae4a4e07" />
 
 
-### **🚀 Bring It To Life**
-We have open-sourced our entire project so you can build your own.
+### **Building Guide:**
+We have open-sourced our entire project so you can build it all by yourselves.
 
-### **All files are organized and ready for the factory floor:**
+### **All files are organized ,ready to be downloaded ,to be inserted into Software ,and to be fabricated:**
 
-The Chassis: Grab the .STEP files from the Production folder and load them into your slicer. The two-tier design prints beautifully without complex supports.
+The Case: Grab the .STEP files from the Production folder and load them into your 3-D Printer. Our two piece design prints flawlesly while not using excessive needs of print supports.
 
-The Logic: Send the gerbers.zip in the Production folder to your favorite PCB manufacturer.
+The P.C.B: Send the gerbers.zip in the Production folder to your favorite PCB manufacturer.
 
 The Brain: Flash the board in seconds using the files provided in the Firmware folder.
