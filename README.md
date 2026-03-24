@@ -1,5 +1,6 @@
 ### **Nexus16: The Art of Control.**
 <img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/319b17a3-7f28-4c76-9065-59e6aaf92d9a" /> 
+<img width="1006" height="692" alt="image" src="https://github.com/user-attachments/assets/6d53056c-15f4-4377-8c13-f455e0f86086" />
 
 >A 17 year old and a 16 year old ,ordinary people in this world just trying to learn the ways of the world and finding our interests.Well we found our way through Hack Club.
 They became the platform for us to start our skill development from the start and provided us with a challenging yet sufficient project to physically work on .
@@ -19,6 +20,7 @@ A lot of the DIY projects are mostly indivisual hardware sottered together to fo
 >NO Fancy or Magnetic switches were decided to be used to provide the builders of this project with simple and cost effictive yet sustainable components. Just 16 highly responsive mechanical switches( MX Cherry )were perfect for our demands.
 
 <img width="767" height="628" alt="Screenshot 2026-03-19 181057" src="https://github.com/user-attachments/assets/f027489b-fbe2-4f09-9233-b0f07bf553a4" />
+<img width="1006" height="692" alt="image" src="https://github.com/user-attachments/assets/4cddba8e-3356-4bf0-a953-82f33fdcc841" />
 
 ### **Bill of Material(BOM):**
 **To manufacture your own Nexus16, you will need:**
