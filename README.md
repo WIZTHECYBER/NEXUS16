@@ -41,6 +41,10 @@ A lot of the DIY projects are mostly indivisual hardware sottered together to fo
 <img width="823" height="765" alt="Screenshot 2026-03-16 171931" src="https://github.com/user-attachments/assets/c7c7b202-a3cf-493b-a0bc-06b556b0dfac" />
 <img width="807" height="781" alt="Screenshot 2026-03-16 224140" src="https://github.com/user-attachments/assets/f91203f5-6daa-4ed8-9ec4-0cf6cbf30cdb" />
 <img width="725" height="772" alt="image" src="https://github.com/user-attachments/assets/7e3f31f8-0f39-4b92-8147-af84ae4a4e07" />
+<img width="1117" height="625" alt="Screenshot 2026-03-24 204008" src="https://github.com/user-attachments/assets/5ac52534-e2e6-4f70-90e7-91223a07e779" />
+<img width="902" height="779" alt="Screenshot 2026-03-24 204308" src="https://github.com/user-attachments/assets/ff5b71d9-f879-47de-a666-c47b86a73ea7" />
+<img width="1006" height="692" alt="image" src="https://github.com/user-attachments/assets/2644e785-8b68-44a0-916e-054a122657fd" />
+
 
 
 ### **Building Guide:**
