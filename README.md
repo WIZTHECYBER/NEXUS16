@@ -29,11 +29,17 @@
 >To manufacture your own Nexus16, you will need:
 
 >1x Seeed Studio XIAO RP2040
+
 >1x 0.91" I2C OLED Display
+
 >16x MX-Style Mechanical Switches
+
 >16x Premium Keycaps
+
 >1x Custom Nexus16 PCB
+
 >16x Mini-E-LEDs
+
 >1x 3D Printed Top Case & Bottom Case (Files located in the Production folder)
 
 <img width="1062" height="716" alt="image" src="https://github.com/user-attachments/assets/40f207c0-fb12-43b8-91e3-b838d431b47f" />
