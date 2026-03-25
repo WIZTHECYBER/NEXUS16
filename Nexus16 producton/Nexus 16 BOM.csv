@@ -1,0 +1,7 @@
+﻿Part names ,discriptions,quantity ,supplier link
+switches,MX-style mechanical keyboard switches for the keys.,16,https://www.adafruit.com/product/4955
+XIAO RP2040,The main microcontroller brain that runs the firmware.,1,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+OLED Screen,128x32 I2C display for showing macropad status.,1,https://www.aliexpress.com/item/32861875681.html
+Diodes,1N4148 through-hole diodes for the switch matrix,16,https://www.sparkfun.com/diode-rectifier-1a-50v-1n4001.html
+M3x10mm Button Head Screws,Secures the 3D printed top case and bottom case together,4,https://www.amazon.com/s?k=m3x10mm+button+head+screws
+SK6812 Mini-E RGB LEDs,Individual LEDs for per-key backlighting.,16,https://www.aliexpress.com/wholesale?SearchText=sk6812+mini-e
